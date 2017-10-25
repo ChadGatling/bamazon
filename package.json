@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with mySQL and node for class",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewendel88/bamazon.git"
+  },
+  "author": "Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewendel88/bamazon/issues"
+  },
+  "homepage": "https://github.com/ewendel88/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
